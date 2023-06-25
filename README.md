@@ -65,9 +65,10 @@
     <th class="tg-0lax" align="center" rowspan="2">Release Time</th>
     <th class="tg-baqh" align="center" rowspan="2">Size(B)</th>
     <th class="tg-0lax" align="center" rowspan="2">Link</th>
+    <th class="tg-org" align="center" rowspan="2">Organization</th>
+    <th class="tg-rem" align="center" rowspan="2" nowrap="nowrap">Remarks</th>
   </tr>
-  <tr>
-  </tr>
+  <tr></tr>
 </thead>
 <tbody>
   <tr>
@@ -76,24 +77,32 @@
     <td class="tg-0lax" align="center">2019/10</td>
     <td class="tg-baqh" align="center">11</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/1910.10683">Paper</a></td>
+    <td class="tg-org" align="center">Google</td>
+    <td class="tg-rem" align="center">英文</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">mT5</td>
     <td class="tg-0lax" align="center">2021/03</td>
     <td class="tg-baqh" align="center">13</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2010.11934">Paper</a></td>
+    <td class="tg-org" align="center">Google</td>
+    <td class="tg-rem" align="center">英文</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">PanGu-α</td>
     <td class="tg-0lax" align="center">2021/05</td>
     <td class="tg-baqh" align="center">13</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2104.12369">Paper</a></td>
+    <td class="tg-org" align="center">华为-鹏程实验室</td>
+    <td class="tg-rem" align="center">支持中文</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">CPM-2</td>
     <td class="tg-0lax" align="center">2021/05</td>
     <td class="tg-baqh" align="center">198</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2106.10715">Paper</a></td>
+    <td class="tg-org" align="center">智源研究院</td>
+    <td class="tg-rem" align="center">支持中文</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">T0</td>
@@ -106,6 +115,8 @@
     <td class="tg-0lax" align="center">2022/02</td>
     <td class="tg-baqh" align="center">20</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2204.06745">Paper</a></td>
+    <td class="tg-org" align="center">EleutherAI</td>
+    <td class="tg-rem" align="center">英文</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">CodeGen</td>
@@ -196,6 +207,8 @@
     <td class="tg-0lax" align="center">2023/02</td>
     <td class="tg-baqh" align="center">65</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2302.13971v1">Paper</a></td>
+    <td class="tg-org" align="center">Facebook</td>
+    <td class="tg-rem" align="center">英文</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Vicuna</td>
@@ -208,6 +221,8 @@
     <td class="tg-0lax" align="center">2023/03</td>
     <td class="tg-baqh" align="center">6</td>
     <td class="tg-0lax" align="center"><a href="https://github.com/THUDM/ChatGLM-6B">Github</a></td>
+    <td class="tg-org" align="center">清华大学</td>
+    <td class="tg-rem" align="center" nowrap="nowrap">支持中文/英文</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">CodeGeeX</td>
