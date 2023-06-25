@@ -67,6 +67,7 @@
     <th class="tg-0lax" align="center" rowspan="2">Link</th>
     <th class="tg-org" align="center" rowspan="2">Organization</th>
     <th class="tg-rem" align="center" rowspan="2" nowrap="nowrap">Remarks</th>
+    <th class="tg-adv" align="center" rowspan="2" nowrap="nowrap">Advantage</th>
   </tr>
   <tr></tr>
 </thead>
@@ -195,12 +196,17 @@
     <td class="tg-0lax" align="center">2022/12</td>
     <td class="tg-baqh" align="center">175</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2212.12017">Paper</a></td>
+    <td class="tg-org" align="center">MetaAI</td>
+    <td class="tg-rem" align="center">英文</td>
+    <td class="tg-adv" align="center">指令微调</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Pythia</td>
     <td class="tg-0lax" align="center">2023/01</td>
     <td class="tg-baqh" align="center">12</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2304.01373">Paper</a></td>
+    <td class="tg-org" align="center" nowrap="nowrap">EleutherAI</td>
+    <td class="tg-rem" align="center" nowrap="nowrap">英文</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">LLaMA</td>
@@ -215,6 +221,9 @@
     <td class="tg-0lax" align="center">2023/03</td>
     <td class="tg-baqh" align="center">13</td>
     <td class="tg-0lax" align="center"><a href="https://vicuna.lmsys.org/">Blog</a></td>
+    <td class="tg-org" align="center">-</td>
+    <td class="tg-rem" align="center">英文</td>
+    <td class="tg-adv" align="center" nowrap="nowrap">数据ShareGPT,训练成本低</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">ChatGLM</td>
