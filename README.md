@@ -172,6 +172,9 @@
     <td class="tg-0lax" align="center">2022/10</td>
     <td class="tg-baqh" align="center">11</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2210.11416">Paper</a></td>
+    <td class="tg-org" align="center">MetaAI</td>
+    <td class="tg-rem" align="center">英文</td>
+    <td class="tg-adv" align="center">任务多</td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">mT0</td>
